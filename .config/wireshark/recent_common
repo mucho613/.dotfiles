@@ -1,0 +1,101 @@
+# Recent settings file for Wireshark 2.2.1.
+#
+# This file is regenerated each time Wireshark is quit.
+# So be careful, if you want to make manual changes here.
+
+######## Recent capture files (latest last), cannot be altered through command line ########
+
+recent.capture_file: /Users/prolab/Desktop/hoge.pcap
+recent.capture_file: /Users/prolab/Desktop/telnet_tcpdump.pcap
+recent.capture_file: /Users/prolab/Desktop/exp/3-4/10-20-1-17.pcapng
+recent.capture_file: /Users/prolab/Desktop/exp/telnet_tcpdump.pcap
+recent.capture_file: /Users/prolab/Desktop/exp/3-4/kurume-ac.pcapng
+
+######## Recent capture filters (latest last), cannot be altered through command line ########
+
+
+######## Recent display filters (latest last), cannot be altered through command line ########
+
+recent.display_filter: tcp
+recent.display_filter: ip.addr == 192.0.2.1 && tcp
+recent.display_filter: dns
+recent.display_filter: arp
+recent.display_filter: 　ar
+recent.display_filter: 10.20.1.185
+recent.display_filter: ip.ad
+recent.display_filter: ip.addr == 192.0.2.1 tcp
+
+# Main window geometry.
+# Decimal numbers.
+gui.geometry_main_x: 4
+gui.geometry_main_y: 23
+gui.gtk.geometry_main_x: 20
+gui.gtk.geometry_main_y: 20
+gui.geometry_main_width: 1276
+gui.geometry_main_height: 755
+
+# Main window maximized.
+# TRUE or FALSE (case-insensitive).
+gui.geometry_main_maximized: FALSE
+
+# Statusbar left pane size.
+# Decimal number.
+gui.geometry_status_pane: 250
+
+# Statusbar middle pane size.
+# Decimal number.
+gui.geometry_status_pane_right: 250
+
+# Last used Configuration Profile.
+gui.last_used_profile: Default
+
+# WLAN statistics upper pane size.
+# Decimal number.
+gui.geometry_status_wlan_stats_pane: 200
+
+# Warn if running with elevated permissions (e.g. as root).
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_elevated: TRUE
+
+# Warn if npf.sys isn't loaded on Windows >= 6.0.
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_no_npf: TRUE
+
+# Geometry and maximized state of FilterDialog window.
+# Decimal integers.
+gui.geom.FilterDialog.x: 217
+gui.geom.FilterDialog.y: 149
+gui.geom.FilterDialog.width: 850
+gui.geom.FilterDialog.height: 503
+# TRUE or FALSE (case-insensitive).
+gui.geom.FilterDialog.maximized: FALSE
+
+# Geometry and maximized state of DecodeAsDialog window.
+# Decimal integers.
+gui.geom.DecodeAsDialog.x: 248
+gui.geom.DecodeAsDialog.y: 162
+gui.geom.DecodeAsDialog.width: 750
+gui.geom.DecodeAsDialog.height: 460
+# TRUE or FALSE (case-insensitive).
+gui.geom.DecodeAsDialog.maximized: FALSE
+
+# Geometry and maximized state of PacketDialog window.
+# Decimal integers.
+gui.geom.PacketDialog.x: 201
+gui.geom.PacketDialog.y: 142
+gui.geom.PacketDialog.width: 1020
+gui.geom.PacketDialog.height: 604
+# TRUE or FALSE (case-insensitive).
+gui.geom.PacketDialog.maximized: FALSE
+
+# Custom colors.
+# List of custom colors selected in Qt color picker.
+gui.custom_colors: 
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff"

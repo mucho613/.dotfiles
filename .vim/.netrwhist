@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/prolab/.oh-my-zsh'
+let g:netrw_dirhist_2='/Users/prolab/Workspace/chigcihan24/private-isu/webapp/golang/templates'
+let g:netrw_dirhist_3='/Users/prolab/Workspace/chigichan24/private-isu/webapp/golang/templates'
+let g:netrw_dirhist_4='/Users/prolab/.vim'
