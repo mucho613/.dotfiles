@@ -91,3 +91,5 @@ export LC_ALL=en_US.UTF-8
 # A Powerline-inspired theme for ZSH
 #
 export XDG_CONFIG_HOME=~/.config
+
+alias vi='nvim'
